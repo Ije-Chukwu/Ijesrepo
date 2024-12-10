@@ -36,3 +36,6 @@ Try it with this Rmarkdown document, as you will need to create pdf outputs to s
 git add R_Rstudio_Rmarkdown.Rmd
 git commit -m "R_Rstudio_Rmarkdown.Rmd"
 git push origin main
+
+How do I know which directory I'm currently working on at the moment?
+How do I even add a code chunk cos I think lines 40-41 is beign read by R as a lines of text (which is the whole point of the R markdown right?)
